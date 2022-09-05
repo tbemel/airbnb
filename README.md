@@ -1,7 +1,7 @@
 # Air BNB Boston and Seatle - What Key BnB Features Most Influence Price and Ratings? 
 This repository contains a Jupyter Notebook, leveraging Data Science techniques to analysethe Seatle and Bostong Air BNB listing. It focuses on understanding the key features that mostly influence the BNB ratings and price.<br> It follows the CRISP-DM methodology: business understanding <=> data understanding <=> data preparation <=> modeling <=>  evaluation (deployment would be left for systematic usage).
 
-The Jupyter Notebook covers the key CRISP-DM process with practical python code snypets to load data, analyse the key features, see their correlations, leverage Matplotlib and SeaBorn modules to provide powerful visual insights, prepare the data, taking care of the missing value, removing noisy columns, reformating string to be read as numeric, prepare the prediction models with the data splitting into test/train sets, run the models and analyse the results. It especially focus on visualizing the key factors influencing the BNB price and rating
+The Jupyter Notebook covers the key CRISP-DM process with practical python code snypets to load data, analyse the key features, see their correlations, leverage Matplotlib and SeaBorn modules to provide powerful visual insights, prepare the data, taking care of the missing value, removing noisy columns, reformating the price and rating columns to be read as numeric, leverage NLP techniques to augment the data set with BNB description word count vectors, prepare the prediction models with the data splitting into test/train sets, run the models and analyse the results. It especially focuses on visualizing the key factors influencing the BNB price and rating.
 
 ## Table of Content
 1.	Installations
@@ -27,5 +27,5 @@ Feel free to add comments and fork the code. Would love to hear from your own fe
 ## 5.	Licensing, Authors, Acknowledgements
 This project is subject to the GNU license GPL v3 https://www.gnu.org/licenses/gpl-3.0.en.html
 Author: Thierry Bemelmans
-Acknowledgements: Udacity Data Science Nano program for the methodology and certain data modelisation techniques.
+Acknowledgements: Udacity Data Science Nano program for the methodology and certain data modelisation techniques, python open source modules contributors and bloggers.
 
