@@ -1,5 +1,5 @@
 # airbnbCancel changes
-Data Science analysis of Air BNB listings for Seatle and Boston
+This ReData Science analysis of Air BNB listings for Seatle and Boston
 
 ## Table of Content
 1.	Installations
