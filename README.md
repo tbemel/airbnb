@@ -15,11 +15,16 @@ The following components are needed to run this Jupyter Notebook:
 - Python version 3.9 + with Jupyter Notebook installed
 - Key python modules needed, if possible install the latest release: numpy, pandas, sklearn, NLTK, matplotlib, seaborn, plotly
 - After installing NLTK, ensure you run the python command nltk.download() to download all NLTK data packages. 
+- The BnB data sets for numerous international cities can be found here http://insideairbnb.com/get-the-data/ 
+I downloaded the listings from Paris 06 June 2022 & Dublin of 08 June, 2022
 
 ## 2.	Project Motivation
 As part of my Udacity Data Science Nano Degree, I wanted to leverage, ground and share my key learnings with a practical data science use case.  
+I also wanted to experiment new ways to analyzing and visualizing data. I particularly enjoyed the geo location visuals and deep diving on the boxplots. 
 
 ## 3.	File Descriptions
+- README.MD : this file
+- Data Science-AirBNB-Paris-Dublin.ipynb : the Jupyter Notebook with the python code. - 
 
 ## 4.	How to Interact with this project?
 Feel free to add comments and fork the code. Would love to hear from your own feedback and suggestions. 
