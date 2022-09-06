@@ -1,4 +1,4 @@
-# Air BNB Boston and Seatle - What Key BnB Features Most Influence Price and Ratings? 
+# Air BnB Paris and Dublin - What Key BnB Features Most Influence Price and Ratings? 
 This repository contains a Jupyter Notebook, leveraging Data Science techniques to analysethe Seatle and Bostong Air BNB listing. It focuses on understanding the key features that mostly influence the BNB ratings and price.<br> It follows the CRISP-DM methodology: business understanding <=> data understanding <=> data preparation <=> modeling <=>  evaluation (deployment would be left for systematic usage).
 
 See my blog on Medium for the key findings: https://medium.com/@tbemel/plan-to-stay-in-a-bnb-paris-or-dublin-a04daecdf371
