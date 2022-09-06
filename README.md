@@ -32,7 +32,7 @@ I also wanted to experiment new ways to analyzing and visualizing data. I partic
 Feel free to add comments and fork the code. Would love to hear from your own feedback and suggestions. 
 
 ## 5.	Licensing, Authors, Acknowledgements
-This project is subject to the GNU license GPL v3 https://www.gnu.org/licenses/gpl-3.0.en.html
-Author: Thierry Bemelmans
+This project is subject to the GNU license GPL v3 https://www.gnu.org/licenses/gpl-3.0.en.html<br>
+Author: Thierry Bemelmans<br>
 Acknowledgements: Udacity Data Science Nano program for the methodology and certain data modelisation techniques, python open source modules contributors and bloggers.
 
